@@ -1,6 +1,6 @@
 # 30 Days of Code - Solutions in Python
 
-|  Day  |                Challenge                |                                         Problem                                          | Difficulty | Score |                                                       Solution                                                        |
+|  Day  |                Challenge                |                                         Problem                                          | Difficulty | Score |
 | :---: | :-------------------------------------: | :--------------------------------------------------------------------------------------: | :--------: | :---: |
 |   0   |              Hello, World               |         [Problem](https://www.hackerrank.com/challenges/30-hello-world/problem)          |    Easy    |  30   |
 |   1   |               Data Types                |          [Problem](https://www.hackerrank.com/challenges/30-data-types/problem)          |    Easy    |  30   |
