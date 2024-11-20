@@ -1,7 +1,7 @@
 # 10 Days of Statistics
 
-|  Day  |                Challenge                |                                              Problem                                               | Difficulty | Score |                                                   Solution                                                   |
-| :---: | :-------------------------------------: | :------------------------------------------------------------------------------------------------: | :--------: | :---: 
+|  Day  |                Challenge                |                                              Problem                                               | Difficulty | Score |
+| :---: | :-------------------------------------: | :------------------------------------------------------------------------------------------------: | :--------: | :---: |
 |   0   |         Mean, Median, and Mode          |           [Problem](https://www.hackerrank.com/challenges/s10-basic-statistics/problem)            |    Easy    |  30   |
 |   1   |                Quartiles                |               [Problem](https://www.hackerrank.com/challenges/s10-quartiles/problem)               |    Easy    |  30   |               
 |   1   |           Interquartile Range           |              [Problem](https://www.hackerrank.com/challenges/s10-interquartile-range)              |    Easy    |  30   |
